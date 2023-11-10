@@ -5,7 +5,7 @@ JSON Server API for Rolling Scopes School task "React.API".
 ## Setup and Running
 
 - Use `node 16.x` or higher.
-- Clone this repo: `$ git clone https://github.com/shopot/mock-server-api.git`.
+- Clone this repo: `$ git clone https://github.com/janaahurtsova/mock-server-api.git`.
 - Go to downloaded folder: `$ cd mock-server-api`.
 - Install dependencies: `$ npm install`.
 - Start server: `$ npm start`.
@@ -16,7 +16,7 @@ JSON Server API for Rolling Scopes School task "React.API".
 ### Create a new GitHub repository
 
 - Create a new repository on GitHub `mock-server-api`
-- Clone this repo: `$ git clone https://github.com/shopot/mock-server-api.git`
+- Clone this repo: `$ git clone https://github.com/janaahurtsova/mock-server-api.git`
 - Change directory: `$ cd mock-server-api`
 - Remove the .git folder: `$ rm -rf .git`
 - Create an empty Git repository: `$ git init`
